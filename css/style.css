@@ -388,6 +388,7 @@ section {
     display: inline-block;
     border-width: 3px;
     border-style: solid;
+    text-transform: uppercase;
 }
 
 /* Play Button */
@@ -719,6 +720,7 @@ a img:hover {
 
 h1 {
     padding: 20px 0;
+    text-transform: uppercase;
 }
 
 h2 {
