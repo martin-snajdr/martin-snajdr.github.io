@@ -727,6 +727,7 @@ h2 {
 
 h3 {
     padding: 10px 0;
+    text-transform: uppercase;
 }
 
 h4 {
@@ -2326,7 +2327,3 @@ blockquote {
     }
 
 }
-
-
-
-
